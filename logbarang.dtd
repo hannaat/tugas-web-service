@@ -8,7 +8,7 @@
 <!ATTLIST barang
     xmlns CDATA #FIXED ''>
 
-<!ELEMENT kode (#PCDATA)>
+<!ELEMENT kode (#PCDATA)?>
 <!ATTLIST kode
     xmlns CDATA #FIXED ''>
 
